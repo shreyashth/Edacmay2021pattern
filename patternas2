@@ -1,0 +1,15 @@
+class patternas2
+  {
+public Static void main(String args[])
+ {
+int A=65;
+for (int i=1;i<=6;i++)
+{
+for(int j=1;j<=i;j++)
+{
+system.out.print((char)A+" ");
+}
+System.out.println();
+  }
+}
+}
